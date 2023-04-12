@@ -39,3 +39,16 @@ h1,
 h2 {
     color: #111;
 }
+
+.icons {
+    list-style: none;
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    padding: 0.2em 0 0.2em;
+    margin-left: -0.6em;
+}
+
+.icons li {
+    margin: 0 15px;
+}
