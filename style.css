@@ -73,3 +73,15 @@ a:hover {
     text-decoration: underline;
     color: #d66500;
 }
+
+figure img {
+    width: 110%;
+    padding: 0;
+    margin-left: -2.5rem;
+}
+
+figcaption {
+    margin-left: -2.5rem;
+    font-size: 0.8rem;
+    color: #555;
+}
