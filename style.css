@@ -31,13 +31,23 @@ main {
     margin: auto;
 }
 
-p {
-    color: #555;
+h1 {
+    font-size: 3.5rem;
 }
 
 h1,
 h2 {
     color: #111;
+}
+
+p {
+    font: inherit;
+    color: #555;
+}
+
+p span {
+    font-size: 0.7em;
+    color: #adacac;
 }
 
 .icons {
@@ -51,4 +61,15 @@ h2 {
 
 .icons li {
     margin: 0 15px;
+}
+
+a {
+    text-decoration: none;
+    color: #fc7700;
+    font-weight: bold;
+}
+
+a:hover {
+    text-decoration: underline;
+    color: #d66500;
 }
