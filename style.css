@@ -85,3 +85,11 @@ figcaption {
     font-size: 0.8rem;
     color: #555;
 }
+
+footer {
+    width: 100%;
+    background-color: #414141;
+    text-align: center;
+    padding: 2rem;
+    margin-top: 4em;
+}
